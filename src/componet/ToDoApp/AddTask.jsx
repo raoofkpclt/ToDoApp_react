@@ -21,7 +21,7 @@ const AddTask = ({addTask}) => {
         }}
         required
         />
-        <button onClick={addItem} className='add-btn'>ADD</button>
+        <button onClick={addItem} className='add-btn'>Add</button>
      </div>
     </>
   )
